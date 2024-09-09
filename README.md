@@ -4,8 +4,8 @@
 ### I love building quirky devices and scripts
 ### I'm currently learning AWS
 
-Languages and Frameworks i know:
-<img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg">
+Languages and Frameworks i know: 
+<img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg"> <br/>
 <!--
 **tazhiman/tazhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
