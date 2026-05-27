@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Rizwan Ahamed
 
 A Computer Engineering graduate from SIT 🖥️  
-I love building quirky devices and scripts 😙  
-✨ I'm currently learning AWS ✨
+
 
 Languages and Frameworks i know:  
 <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg"> 
